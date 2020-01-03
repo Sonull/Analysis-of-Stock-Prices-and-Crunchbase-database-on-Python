@@ -1,1 +1,1 @@
-# Visualization-of-Stock-Prices-and-Crunchbase-database-on-Python
+# Analysis of Stock Prices for major banks and Crunchbase database on Python
